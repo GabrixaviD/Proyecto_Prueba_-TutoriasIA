@@ -1,0 +1,19 @@
+{
+    "current_user": null,
+    "favorites": [],
+    "history": [],
+    "search_results": [],
+    "current_movie": null,
+    "current_series": null,
+    "ui_state": {
+        "current_menu": "main",
+        "selected_index": 0,
+        "scroll_position": 0
+    },
+    "session": {
+        "start_time": "2026-10-01 11:35:01",
+        "last_activity": null,
+        "total_searches": 0,
+        "total_views": 0
+    }
+}

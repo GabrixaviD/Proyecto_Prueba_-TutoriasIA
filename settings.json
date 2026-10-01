@@ -1,0 +1,19 @@
+{
+    "app_name": "Movie Explorer",
+    "version": "1.0.0",
+    "author": "Student",
+    "theme": "dark",
+    "language": "es",
+    "api_timeout": 30,
+    "max_results": 10,
+    "cache_enabled": true,
+    "debug_mode": true,
+    "verbose_output": true,
+    "auto_save": true,
+    "backup_enabled": true,
+    "max_backups": 10,
+    "log_level": "DEBUG",
+    "date_format": "%Y-%m-%d",
+    "time_format": "%H:%M:%S",
+    "datetime_format": "%Y-%m-%d %H:%M:%S"
+}
